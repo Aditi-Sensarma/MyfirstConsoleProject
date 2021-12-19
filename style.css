@@ -1,0 +1,15 @@
+body {
+text-align: center;
+}
+
+h1 {
+    font-size:x-large;
+    font-family: sans-serif;
+    font-weight: 600;
+     }
+
+ p {
+     font-size: medium;
+     font-family: Arial, Arial, Helvetica, sans-serif;
+     font-weight: 200;
+ }    
